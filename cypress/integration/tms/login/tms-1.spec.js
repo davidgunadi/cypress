@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-import { LoginPage } from "../page-objects/tms/loginPage"
+import { LoginPage } from "../../../page-objects/tms/loginPage"
 
 const loginPage = new LoginPage()
 
