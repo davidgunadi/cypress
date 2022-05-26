@@ -1,0 +1,8 @@
+# Node Modules
+todomvc-tests/node_modules
+
+# Log file
+*.log
+
+# Video Logs
+todomvc-tests/videos
